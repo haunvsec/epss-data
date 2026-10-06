@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "source": "FIRST EPSS",
+  "source_url": "https://epss.empiricalsecurity.com/epss_scores-current.csv.gz",
+  "fetched_at": "2026-10-06T10:18:06Z",
+  "score_date": "2026-10-05",
+  "score_timestamp": "2026-10-05T12:00:23Z",
+  "model_version": "v2026.06.15",
+  "record_count": 382795,
+  "sha256": "b7ec1b37d0a80c9acb003f99339705928feae7a90bd54687df5d0ce4a9a26855",
+  "compressed_bytes": 2690287,
+  "snapshot": "snapshots/2026/epss_scores-2026-10-05.csv.gz"
+}
