@@ -2,12 +2,12 @@
   "schema_version": 1,
   "source": "FIRST EPSS",
   "source_url": "https://epss.empiricalsecurity.com/epss_scores-current.csv.gz",
-  "fetched_at": "2026-10-09T03:13:03Z",
-  "score_date": "2026-10-08",
-  "score_timestamp": "2026-10-08T12:00:21Z",
+  "fetched_at": "2026-10-13T14:13:23Z",
+  "score_date": "2026-10-13",
+  "score_timestamp": "2026-10-13T12:03:00Z",
   "model_version": "v2026.06.15",
-  "record_count": 384534,
-  "sha256": "1fc280153c23dbba9020132ae4e3e8ded4eb59846258e96c0ad89614c9559d27",
-  "compressed_bytes": 2701298,
-  "snapshot": "snapshots/2026/epss_scores-2026-10-08.csv.gz"
+  "record_count": 386684,
+  "sha256": "bddf134d8df100c5c1fee3c9fca282885c3828ddc9a536617592eb4648d8c993",
+  "compressed_bytes": 2715469,
+  "snapshot": "snapshots/2026/epss_scores-2026-10-13.csv.gz"
 }
